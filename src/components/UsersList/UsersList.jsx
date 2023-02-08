@@ -15,7 +15,7 @@ const UsersList = () => {
           return (
             <Item key={id}>
               <Wrapper>
-                <img src={photo} alt={name} />
+                <img src={photo} alt={name} width="70px" height="70px" />
               </Wrapper>
 
               <Paragraph title={name}>

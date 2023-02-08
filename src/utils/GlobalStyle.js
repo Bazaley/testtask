@@ -15,6 +15,7 @@ const font = (name, src, fontWeight = 'normal', fontStyle = 'normal') => {
 
         font-style: ${fontStyle};
         font-weight: ${fontWeight};
+         font-display:swap;
     }
     `;
 };
