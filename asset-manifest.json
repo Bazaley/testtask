@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/testtask/static/js/main.b6d053f8.js",
+    "static/media/desktop@2x.jpg": "/testtask/static/media/desktop@2x.aa78c2570f904276c0d6.jpg",
+    "static/media/bigDesktop@2x.jpg": "/testtask/static/media/bigDesktop@2x.25786de166679f41ef03.jpg",
+    "static/media/tablet@2x.jpg": "/testtask/static/media/tablet@2x.0eceea646a88197be193.jpg",
+    "static/media/nunito-v25-latin-regular.svg": "/testtask/static/media/nunito-v25-latin-regular.412cc614d7ab78de6b0a.svg",
+    "static/media/mobile@2x.jpg": "/testtask/static/media/mobile@2x.24d1cc82ee8be1d58482.jpg",
+    "static/media/desktop.jpg": "/testtask/static/media/desktop.119ca3a00d8bdeeb58c3.jpg",
+    "static/media/bigDesktop.jpg": "/testtask/static/media/bigDesktop.1f70904893ab30ce4e9c.jpg",
+    "static/media/tablet.jpg": "/testtask/static/media/tablet.54ba81f298ac55437fc4.jpg",
+    "static/media/nunito-v25-latin-regular.ttf": "/testtask/static/media/nunito-v25-latin-regular.7bca2ea5ad46fc0a2d31.ttf",
+    "static/media/success-image.svg": "/testtask/static/media/success-image.45e9abfaf490994a79bb828b21a29c28.svg",
+    "static/media/nunito-v25-latin-regular.woff": "/testtask/static/media/nunito-v25-latin-regular.ca52c044715c95fdd0d8.woff",
+    "static/media/nunito-v25-latin-regular.eot": "/testtask/static/media/nunito-v25-latin-regular.73d02691cf6fa38e40b2.eot",
+    "static/media/mobile.jpg": "/testtask/static/media/mobile.d394c9b96d2e89c3814b.jpg",
+    "static/media/logo.svg": "/testtask/static/media/logo.373f6ca26c3feb8e2a5c959d295fdc56.svg",
+    "static/media/defaultImage.svg": "/testtask/static/media/defaultImage.96dd1600a304409a8423aef02a3ebf9a.svg",
+    "index.html": "/testtask/index.html",
+    "main.b6d053f8.js.map": "/testtask/static/js/main.b6d053f8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b6d053f8.js"
+  ]
+}
